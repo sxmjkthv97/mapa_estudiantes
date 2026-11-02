@@ -1,0 +1,11 @@
+# Archivos temporales de pruebas
+cookies.txt
+
+# Capturas de pantalla (deben subirse al aula virtual, no al repositorio)
+capturas/
+captura-get.png
+captura-post.png
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
